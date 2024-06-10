@@ -1,4 +1,4 @@
-# World Happiness Report Dashboard (2016-2019)
+# World Happiness Report Dashboard
 This dashboard uses averages from the World Happiness Report data from 2016 through 2019. 
 By integrating insights from economics, health, and public policy, the project aims to understand how these factors contribute to elevating happiness in each country and guide policy-making decisions.
 
