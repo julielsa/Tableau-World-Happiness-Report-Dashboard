@@ -10,7 +10,7 @@ Data Source: [World Happiness Report](https://www.kaggle.com/datasets/unsdsn/wor
 - This report allows you to drill down further by Year and Country and view these factors.
 - View of Top 10 Countries with Overall Happiness Rank.  
 
-### Area of Analysis
+### Area of Skills
 - Data Cleaning
 - Visualization
   
