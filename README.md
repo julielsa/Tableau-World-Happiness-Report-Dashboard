@@ -1,5 +1,5 @@
-# World Happiness Report Dashboard
-This dashboard uses averages from the World Happiness Report data from 2016 through 2019. 
+# Tableau- World Happiness Report Dashboard
+This Tableau dashboard uses averages from the World Happiness Report data from 2016 through 2019. 
 By integrating insights from economics, health, and public policy, the project aims to understand how these factors contribute to elevating happiness in each country and guide policy-making decisions.
 
 ### Dataset
