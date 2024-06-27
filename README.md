@@ -7,28 +7,28 @@ Data Source: [World Happiness Report](https://www.kaggle.com/datasets/unsdsn/wor
 
 ### Methodology
 1. Data Collection
-  - Source Identification: Identify reliable sources for the World Happiness Report data, including variables such as Happiness Score, GDP, Trust in Government, Life Expectancy, and other socioeconomic factors.
-  - Data Acquisition: Download the datasets for multiple years to allow for temporal analysis.
+    - Source Identification: Identify reliable sources for the World Happiness Report data, including variables such as Happiness Score, GDP, Trust in Government, Life Expectancy, and other socioeconomic factors.
+    - Data Acquisition: Download the datasets for multiple years to allow for temporal analysis.
 2. Data Cleaning
-  - Data Inspection: Examine the raw data for inconsistencies, missing values, and outliers.
-  - Data Imputation: Handle missing data by appropriate methods such as mean imputation, interpolation, or using available data from other sources.
-  - Normalization and Standardization: Normalize and standardize data to ensure consistency across different scales of measurement.
-  - Data Integration: Merge datasets from different years and sources into a single, comprehensive dataset for analysis.
+    -  Data Inspection: Examine the raw data for inconsistencies, missing values, and outliers.
+    -  Data Imputation: Handle missing data by appropriate methods such as mean imputation, interpolation, or using available data from other sources.
+    -  Normalization and Standardization: Normalize and standardize data to ensure consistency across different scales of measurement.
+    -  Data Integration: Merge datasets from different years and sources into a single, comprehensive dataset for analysis.
 3. Data Analysis
-  - Correlation Analysis: Perform statistical analyses to understand the relationship between Happiness Score and various socioeconomic factors (e.g., GDP, Trust in Government, Life Expectancy).
-  - Trend Analysis: Analyze trends over the years to identify patterns and changes in happiness scores and their contributing factors.
-  - Ranking: Rank countries based on their overall Happiness Score and identify the top 10 happiest countries.
+    - Correlation Analysis: Perform statistical analyses to understand the relationship between Happiness Score and various socioeconomic factors (e.g., GDP, Trust in Government, Life Expectancy).
+    - Trend Analysis: Analyze trends over the years to identify patterns and changes in happiness scores and their contributing factors.
+    - Ranking: Rank countries based on their overall Happiness Score and identify the top 10 happiest countries.
 4. Data Visualization
-  - World Map Visualization: Create a world map highlighting the Happiness Score by country. Use color gradients to represent different happiness levels.
-  - Interactive Dashboard: Develop an interactive dashboard that allows users to: Drill down by year and country to view detailed factors contributing to the Happiness Score.
-  - View correlations between GDP and other socioeconomic factors with the Happiness Score.
-  - Identify trends and patterns over time.
-  - Top 10 Countries Display: Visualize the top 10 countries with the highest Happiness Scores using bar charts or other suitable visual formats.
+    - World Map Visualization: Create a world map highlighting the Happiness Score by country. Use color gradients to represent different happiness levels.
+    - Interactive Dashboard: Develop an interactive dashboard that allows users to: Drill down by year and country to view detailed factors contributing to the Happiness Score.
+    - View correlations between GDP and other socioeconomic factors with the Happiness Score.
+    - Identify trends and patterns over time.
+    - Top 10 Countries Display: Visualize the top 10 countries with the highest Happiness Scores using bar charts or other suitable visual formats.
 5.  Dashboard Development
-  - Tool Selection: Choose a data visualization tool (e.g., PowerBI, Tableau) to develop the interactive dashboard.
-  - Design and Layout: Design the layout of the dashboard to ensure it is user-friendly and provides clear, concise information.
-  - Interactivity: Implement interactive elements such as filters, hover effects, and drill-down capabilities to enhance user engagement and analysis depth.
-  - 
+    - Tool Selection: Choose a data visualization tool (e.g., PowerBI, Tableau) to develop the interactive dashboard.\
+    - Design and Layout: Design the layout of the dashboard to ensure it is user-friendly and provides clear, concise information.
+    - Interactivity: Implement interactive elements such as filters, hover effects, and drill-down capabilities to enhance user engagement and analysis depth.
+    
 ### Area of Skills
 - Data Cleaning
 - Visualization
